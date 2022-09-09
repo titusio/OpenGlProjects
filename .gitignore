@@ -1,0 +1,14 @@
+# folders
+.idea/
+Build/
+Generated/
+
+# file extensions
+**/*.exe
+
+# visual studio files and folders
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user# file types
